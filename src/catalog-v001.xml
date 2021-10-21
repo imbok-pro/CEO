@@ -2,6 +2,6 @@
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/bfo/2.0/bfo.owl" uri="file:/Users/vserge/GitHub/BFO/releases/2.0/bfo.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1631128821182" name="http://www.imbok.pro/ontologies/CEO" uri="CEO.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1634589449494" name="http://www.imbok.pro/ontologies/CEO" uri="CEO.owl"/>
     </group>
 </catalog>
